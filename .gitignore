@@ -1,5 +1,5 @@
-# Data
-data/raw/
+# Data (raw data files are versioned by DVC, but we ignore the actual CSV files)
+data/raw/*.csv
 data/processed/
 
 # DVC
