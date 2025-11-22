@@ -1,0 +1,39 @@
+# Data
+data/raw/
+data/processed/
+
+# DVC
+.dvc/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Model files
+*.pkl
+*.joblib
+*.model
+
+# Plots
+*.png
+*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
